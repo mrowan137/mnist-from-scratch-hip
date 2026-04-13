@@ -1,0 +1,11 @@
+# temp files
+*~
+
+# OS
+.DS_Store
+
+# executable
+mnist
+
+# data files
+*.csv
